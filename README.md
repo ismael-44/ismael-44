@@ -1,6 +1,15 @@
 # 💫 About Me:
 🔭 I'm sysadmin looking forward to be cybersecurity expert.<br>🌱 I will share you all my little projects here :)
 
+I'm a passionate sysadmin on a journey to become a cybersecurity expert. With a strong foundation in systems administration. I'm expanding my knowledge and skills to tackle the challenges of cybersecurity. Here, I will share my projects, learnings, and experiences as I progress on this exciting career path.
+
+## Experience and Skills
+
+- System Administration: I have a solid background in managing and maintaining complex IT infrastructures. I understand the inner workings of various operating systems and network configurations.
+- Network Security: I'm familiar with securing networks, implementing firewalls and conducting vulnerability assessments to protect against unauthorized access.
+- Secure Infrastructure Design: I have knowledge in secure architectures, implementing security best practices, and ensuring the confidentiality, integrity, and availability of critical systems and data.
+
+Let's connect and together strengthen the digital defenses!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ismael__44) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://es.linkedin.com/in/ismael-bouhfid-fern%C3%A1ndez/) 
