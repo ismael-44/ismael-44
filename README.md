@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔭 I'm sysadmin looking forward to be cybersecurity expert.<br>🌱 I will share you all my little projects here :)
+🔭 I'm a passionate sysadmin on a journey to become a cybersecurity expert, with a strong foundation in systems administration, I'm expanding my knowledge and skills to tackle the challenges of cybersecurity.<br>🌱 Here, I will share my projects, learnings, and experiences as I progress on this exciting career path.
 
-I'm a passionate sysadmin on a journey to become a cybersecurity expert. With a strong foundation in systems administration. I'm expanding my knowledge and skills to tackle the challenges of cybersecurity. Here, I will share my projects, learnings, and experiences as I progress on this exciting career path.
 
 ## Experience and Skills
 
