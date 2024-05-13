@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a passionate sysadmin on a journey to become a cybersecurity expert, with a strong foundation in systems administration, I'm expanding my knowledge and skills to tackle the challenges of cybersecurity.<br><br>🌱 Here, I will share my projects, learnings, and experiences as I progress on this exciting career path.
+🔭 Currently working as a infraestructure technician, and i´m looking forward to be an expert on networking security. I want to use this repos as a guide for the rest of the users, you can write me with dobuts or troubles.
 
 
 ## Experience and Skills
